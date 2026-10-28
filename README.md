@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+<br><br>🎓 **B.Tech Computer Science and Engineering Student**  <br>💻 Passionate about Programming, Software Development, and Problem Solving.<br>- 🌱 Currently learning **C, Java, Data Structures and Algorithms (DSA)**.<br>- 💡 Interested in software development and building real-world projects.<br>- 🎯 Preparing for software engineering internships and placements at product-based companies.<br>- 📚 Continuously improving my coding and problem-solving skills.<br>- 🤝 Open to learning, collaboration, and contributing to interesting projects.<br><br>🛠️ Skills & Technologies<br>- **Languages:** C, Java<br>- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures and Algorithms<br>- **Tools:** Git, GitHub, VS Code<br>- **Currently Exploring:** Web Development and Software Engineering<br> <br>Goals<br>- Strengthen my programming fundamentals.<br>- Solve DSA problems consistently.<br>- Build useful projects and contribute to open-source.<br>- Become a skilled Software Engineer.<br><br><br><br>
 
-<!--
-**Bharath-Konganti72/Bharath-Konganti72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BBqS9FmgD/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bharath_konganti_?vrfl=MWY4cjRqOGV4dnVmaQ==) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KongantiBharath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharathkonganti20@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat-square&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=flat-square&logo=Cockroach%20Labs&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=flat-square&logo=musicbrainz&logoColor=BA478F) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat-square&logo=Crowdin&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=flat-square&logo=homebridge&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=flat-square&logo=aqua&logoColor=#0018A8) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat-square&logo=codecov&logoColor=white) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=flat-square&logo=chipperci&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat-square&logo=travis&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=flat-square&logo=octopusdeploy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Bharath-Konganti72&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Bharath-Konganti72&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bharath-Konganti72&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bharath-Konganti72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bharath-Konganti72&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Bharath-Konganti72&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
